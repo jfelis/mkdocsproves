@@ -1,4 +1,4 @@
-# Projecte ASIX
+# Projecte DAM
 
 **Autor:** Juanjo Felis  
 **Data d'inici:** 21/09/2026
