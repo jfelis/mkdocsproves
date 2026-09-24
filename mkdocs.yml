@@ -1,1 +1,6 @@
-site_name: Web de Juanjo Felis
+site_name: Web de Pràctiques de Juanjo Felis
+nav:
+  - Intro: index.md
+  - Pràctiques:
+    - Pràctica1: fail2ban_telegram_md.md
+    - Pràctica2: sshguard_sshaudit_md.md

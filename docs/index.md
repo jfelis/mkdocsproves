@@ -1,13 +1,10 @@
-# Benvinguts a la web de d'ASIX
+# Benvinguts a la web de d'ASIX de Juanjo Felis
 
 Enllaç a aules de la assignatura [aules.org](https://aules.edu.gva.es).
 
-##  Desplegament continu en Github Pages
 
+##  Llistat de pràctiques curs 26/27
 
-## Primeres proves
+        [Practica 1](./fail2ban_telegram_md.md)       # Pràctica de Fail 2 Ban i Telegram
+        [Practica 2](./sshguard_sshaudit_md.md)       # Pràctica de  SSHGuard i SSHAudit
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        fail2ban_telegram_md.md       # Pràctica de Fail 2 Ban i Telegram
