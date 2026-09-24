@@ -1,8 +1,8 @@
-# Benvinguts a la web de Juanjo
+# Benvinguts a la web de d'ASIX
 
 Enllaç a aules de la assignatura [aules.org](https://aules.edu.gva.es).
 
-##  Desplegament continu
+##  Desplegament continu en Github Pages
 
 
 ## Primeres proves
